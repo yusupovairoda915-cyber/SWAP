@@ -1,0 +1,7 @@
+build/
+.dart_tool/
+android/
+ios/
+backend/swap.db
+__pycache__/
+.pytest_cache/
